@@ -45,6 +45,7 @@ The changes in the updated school district analysis after reading and math score
 * THS Average Reading Score increased from 83.8% to 83.9%. While the % Passing Reading declined from 97.3% to 97%.
 * While removing the scores for the 9th grade THS scores had a slight impact on THS numbers, the impact on the overall PyCity School District was minimal, which would indicate that there was little to no evidence of academic dishonesty.
 * Intial Analysis
-
+![Intial Analysis](https://user-images.githubusercontent.com/62673123/126105152-dafe1d56-2d1c-424d-b9cd-0cebd98243ba.PNG)
 * Secondary Analysis - with 9th grades sores replaced.
+![Secondary Analysis](https://user-images.githubusercontent.com/62673123/126105163-3d792259-47cb-4a84-b7e2-b1e8231afc1f.PNG)
 
