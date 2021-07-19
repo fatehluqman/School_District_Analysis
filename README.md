@@ -40,7 +40,11 @@ Based on the replaced data for THS, the overall impact on the school district nu
 
 ## Summary: 
 The changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs can be summarized as the following:
-	* THS % Overall Passing declined from 90.9% to 90.6%
-	* THS Average Math Score declined from 
-	* THS Average Reading Score declined from 
-	* While removing the scores for the 9th grade THS scores impacted THS numbers, the impact on the overall PyCity School District was minimal, which would indicate that there was little to no evidence of academic dishonesty.
+* THS % Overall Passing declined from 90.9% to 90.6%.	
+* THS Average Math Score remained flat at 83.4%. While the % Passing Math declined from 93.3% to 93.2%.
+* THS Average Reading Score increased from 83.8% to 83.9%. While the % Passing Reading declined from 97.3% to 97%.
+* While removing the scores for the 9th grade THS scores had a slight impact on THS numbers, the impact on the overall PyCity School District was minimal, which would indicate that there was little to no evidence of academic dishonesty.
+* Intial Analysis
+
+* Secondary Analysis - with 9th grades sores replaced.
+
